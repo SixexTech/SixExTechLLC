@@ -99,8 +99,14 @@ p {
 }
 
 .store-badge {
-  max-height: 60px;
+  max-height: 90px;
   margin-left: 5px;
+  border: none;
+  display: inline-block;
+}
+
+a img.store-badge {
+  border: none;
 }
 
 .service-highlight .description {
