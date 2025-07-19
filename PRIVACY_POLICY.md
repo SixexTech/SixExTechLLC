@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-The RacketUp ("RacketUp", "we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website, mobile application, and any related services (the "Service"). By using the Service, you consent to the practices described in this Privacy Policy.
+RacketUp ("RacketUp", "we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website, mobile application, and any related services (the "Service"). By using the Service, you consent to the practices described in this Privacy Policy.
 
 ## 2. Information We Collect
 

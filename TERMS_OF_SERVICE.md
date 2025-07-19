@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to the RacketUp ("RacketUp", "we", "our", or "us"). These Terms of Service ("Terms") govern your use of our website, mobile application, and any other services we provide (collectively, the "Service"). By accessing or using our Service, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use our Service.
+Welcome to RacketUp ("RacketUp", "we", "our", or "us"). These Terms of Service ("Terms") govern your use of our website, mobile application, and any other services we provide (collectively, the "Service"). By accessing or using our Service, you agree to be bound by these Terms. If you do not agree to these Terms, please do not access or use our Service.
 
 The RacketUp is a service designed to facilitate online matchmaking and competition for racket-sport players. We are the owner of the domain and have a pending trademark registration for the RacketUp name.
 
